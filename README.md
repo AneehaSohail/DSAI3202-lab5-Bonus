@@ -1,11 +1,5 @@
 # Lab 5 – Scalable Feature Extraction and Selection for Predictive Maintenance
 
-Name: Aneeha Sohail  
-Student ID: 60105845  
-Course: DSAI3202 – Programming IoT Applications  
-Lab 5 – Scalable Feature Extraction and Selection  
----
-
 # Project Objective
 
 The objective of this lab is to develop a scalable predictive maintenance pipeline using the NASA CMAPSS turbofan engine dataset. The goal is to predict Remaining Useful Life (RUL) using time-series feature extraction, feature selection techniques, and regression models while reducing feature dimensionality without sacrificing performance.
